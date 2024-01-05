@@ -178,6 +178,7 @@ section.habilidades{
     display: flex;
     align-items: center;
     justify-content: center;
+    
     border-radius: 25px;
     max-width: 450px;
     padding: 30px;
